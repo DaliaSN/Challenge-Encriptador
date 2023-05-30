@@ -220,4 +220,8 @@ main{
         left: 150px;
     }
 
+    .ocultar{
+        display: none;
+    }
+
 }
